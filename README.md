@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
- <div align="right">
+ <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -38,4 +38,4 @@
 ---
 
 ### :fire: My Stats :
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&show_icons=true&locale=en" alt="ThakkarHemant" /></p>
+<p>&nbsp;<img align="center" colour="black" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&show_icons=true&locale=en" alt="ThakkarHemant" /></p>
