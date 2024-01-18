@@ -38,4 +38,4 @@
 ---
 
 ### :fire: My Stats :
-<p>&nbsp;<img align="center" colour="black" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&show_icons=true&locale=en" alt="ThakkarHemant" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=github_dark&show_icons=true&locale=en" alt="ThakkarHemant" /></p>
