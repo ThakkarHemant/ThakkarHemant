@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 <div align="left">
-- :telescope:  I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope:  I’m an aspiring Software Engineer.
 
 - :seedling: Exploring Technical Content Writing.
 
