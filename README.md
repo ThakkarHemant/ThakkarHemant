@@ -53,8 +53,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=github_dark&show_icons=true&locale=en" alt="ThakkarHemant" />
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false" alt="ThakkarHemant" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ThakkarHemant" />
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=github_dark&hide_border=false" alt="ThakkarHemant" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=ThakkarHemant&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ThakkarHemant" />
 
 <div align="left">
   
