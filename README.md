@@ -8,9 +8,10 @@
 </div>
 
 ---
+<div align="right">
 
-<h2 style="text-align: left;">👨‍💻 About Me:</h2>
-
+## 👨‍💻 About Me:</h2>
+</div>
 <div align="left">
 - :telescope:  I’m an aspiring Software Engineer.
 
