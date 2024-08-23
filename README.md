@@ -52,7 +52,10 @@
 
 ![ThakkarHemant's Stats](https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![ThakkarHemant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false)
-:![ThakkarHemant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&layout=compact):
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="ThakkarHemant's Top Languages">
+</div>
+
 
 
 <div align="left">
