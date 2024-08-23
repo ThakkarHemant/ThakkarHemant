@@ -10,7 +10,7 @@
 ---
 <div align="left">
 
-## 👨‍💻 About Me:</h2>
+##3 👨‍💻 About Me:</h2>
 </div>
 <div align="left">
 - :telescope:  I’m an aspiring Software Engineer.
