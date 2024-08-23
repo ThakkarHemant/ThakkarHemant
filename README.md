@@ -8,6 +8,7 @@
 </div>
 
 <div align="left">
+  
 ## 👨‍💻 About Me:
 </div>
 <div align="left">
@@ -39,6 +40,7 @@
 </div>
 
 <div align="left">
+  
 ## 🔥 My Stats
 </div>
 ---
@@ -48,6 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ThakkarHemant" />
 
 <div align="left">
+  
 ## 🏆 GitHub Trophies
 </div>
 ---
