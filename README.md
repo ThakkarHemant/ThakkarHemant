@@ -12,21 +12,19 @@
 ## 👨‍💻 About Me:
 </div>
 <div align="left">
-- :telescope:  I’m an aspiring Software Engineer.
+- :telescope:  I’m a Second Year CSE Student exploring different fields.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently exploring the world of Machine Learning & OpenCV.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I like to listen to music and brainstrom new project ideas.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/hemant-thakkar-45a009280/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
+- :mailbox:How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-thakkar-45a009280/)
 
 </div>
 
 
 <div align="left">
+  
 ## 🛠️ Languages and Tools:
 </div>
 ---
