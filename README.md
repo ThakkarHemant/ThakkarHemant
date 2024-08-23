@@ -9,7 +9,8 @@
 
 ---
 
-## :man_technologist: About Me: 
+<h2 style="text-align: left;">👨‍💻 About Me:</h2>
+
 <div align="left">
 - :telescope:  I’m an aspiring Software Engineer.
 
@@ -24,9 +25,11 @@
 
 </div>
 
----
 
-## :hammer_and_wrench:  Languages and Tools: 
+
+<h2 style="text-align: left;">🔨🛠️ Languages and Tools:</h2>
+
+---
 
 <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,9 +40,7 @@
 </div>
 
 
-
-
-## :fire: My Stats 
+<h2 style="text-align: right;">🔥 My Stats</h2>
 
 ---
 
@@ -47,7 +48,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false" alt="ThakkarHemant" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ThakkarHemant" />
 
-## 🏆 GitHub Trophies 
+<h2 style="text-align: right;">🏆 GitHub Trophies</h2>
 
 ---
 
