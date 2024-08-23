@@ -9,7 +9,7 @@
 
 ---
 
-## :man_technologist About Me: 
+## :man_technologist: About Me: 
 <div align="left">
 - :telescope:  I’m an aspiring Software Engineer.
 
