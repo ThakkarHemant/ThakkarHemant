@@ -7,10 +7,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
----
 <div align="left">
-
-### 👨‍💻 About Me:</h2>
+## 👨‍💻 About Me:
 </div>
 <div align="left">
 - :telescope:  I’m an aspiring Software Engineer.
@@ -27,9 +25,9 @@
 </div>
 
 
-
-<h2 style="text-align: left;">🔨🛠️ Languages and Tools:</h2>
-
+<div align="left">
+## 🛠️ Languages and Tools:
+</div>
 ---
 
 <div >
@@ -40,17 +38,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heigth="40"/>&nbsp;
 </div>
 
-
-<h2 style="text-align: right;">🔥 My Stats</h2>
-
+<div align="left">
+## 🔥 My Stats
+</div>
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=github_dark&show_icons=true&locale=en" alt="ThakkarHemant" />
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false" alt="ThakkarHemant" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ThakkarHemant" />
 
-<h2 style="text-align: right;">🏆 GitHub Trophies</h2>
-
+<div align="left">
+## 🏆 GitHub Trophies
+</div>
 ---
 
 ![](https://github-profile-trophy.vercel.app/?username=ThakkarHemant&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
