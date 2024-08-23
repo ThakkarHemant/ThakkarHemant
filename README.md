@@ -9,7 +9,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: About Me 
 <div align="left">
 - :telescope:  I’m an aspiring Software Engineer.
 
@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools 
 
 <div >
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=github_dark&show_icons=true&locale=en" alt="ThakkarHemant" />
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false" alt="ThakkarHemant" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ThakkarHemant" />
