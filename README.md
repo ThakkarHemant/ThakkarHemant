@@ -1,5 +1,5 @@
 <div id="header" align="center" >
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="175" />
+ 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200" />
 </div>
   
@@ -9,6 +9,7 @@
 ## 👨‍💻 About Me:
 </div>
 <div align="left">
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="175" align="right"/>  
 - :telescope:  I’m a Second Year CSE Student exploring different fields.
 
 - :seedling: Currently exploring the world of Machine Learning & OpenCV.
