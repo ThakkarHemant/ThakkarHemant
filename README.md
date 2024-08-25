@@ -49,10 +49,13 @@
   
 ## 🔥 My Stats
 </div>
+
 <div align="center">
-![ThakkarHemant's Stats](https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)   
-![ThakkarHemant's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="ThakkarHemant's Top Languages">
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="ThakkarHemant's Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false" alt="ThakkarHemant's Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="ThakkarHemant's Top Languages">
+
 </div>
 
 
