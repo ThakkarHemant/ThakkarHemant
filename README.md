@@ -59,16 +59,7 @@
 
 </div>
 
-## 🎇My Streak
-<div align="center">
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThakkarHemant&theme=dark)](https://git.io/streak-stats)
-
  
-</div>
-
-
 <div align="left">
 
 ## 🏆 GitHub Trophies
