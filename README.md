@@ -53,7 +53,7 @@
 <div align="center">
  
 <img src="https://github-readme-stats.vercel.app/api?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="ThakkarHemant's Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThakkarHemant&theme=tokyonight&hide_border=false" alt="ThakkarHemant's Streak">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ThakkarHemant&theme=dark" alt="GitHub Streak" /></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThakkarHemant&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="ThakkarHemant's Top Languages">
 
 </div>
